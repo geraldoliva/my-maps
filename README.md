@@ -2,7 +2,7 @@
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map.
 
-Time spent: **6** hours spent in total
+Time spent: **6** hours spent in total<br><br>
 
 ## Functionality
 
@@ -15,13 +15,15 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * :white_check_mark: When a map marker is created, the pin is animated.
-* :white_check_mark: Maps to user’s current location.
+* :white_check_mark: Maps to user’s current location.<br><br>
 
 ## Video Walk-through
 
-Here's a walk-through of implemented user stories:
+Here's a walk-through of implemented user stories:<br><br>
 
-<img src='https://j.gifs.com/83NmM5.gif' title='Video Walk-through' width='250' alt='Video Walk-through' /><br><br>
+https://user-images.githubusercontent.com/51930238/216476717-5b32ff42-6187-4c6a-aaa7-a6dc7fa047e8.mov
+
+<br>
 
 **Author:** [Gerald Oliva](https://www.geraldoliva.com/)
 
